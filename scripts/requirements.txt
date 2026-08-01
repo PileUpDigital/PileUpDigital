@@ -1,0 +1,3 @@
+# Only the ASCII pipeline needs Pillow, and it runs locally when the mark changes.
+# The daily workflow regenerates shipped.svg using the standard library alone.
+pillow>=10.0

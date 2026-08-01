@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="518" viewBox="0 0 584 518" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect width="584" height="518" rx="10" fill="#0d1117"/>
+<style><![CDATA[
+.row{opacity:0}
+@keyframes wipe{from{opacity:1;clip-path:inset(0 100% 0 0)}to{opacity:1;clip-path:inset(0 0 0 0)}}
+.w0{animation:wipe 0.34s steps(68,end) 0.0s forwards}
+.w1{animation:wipe 0.34s steps(68,end) 0.06s forwards}
+.w2{animation:wipe 0.34s steps(68,end) 0.12s forwards}
+.w3{animation:wipe 0.34s steps(68,end) 0.18s forwards}
+.w4{animation:wipe 0.34s steps(68,end) 0.24s forwards}
+.w5{animation:wipe 0.34s steps(68,end) 0.3s forwards}
+.w6{animation:wipe 0.34s steps(68,end) 0.36s forwards}
+.w7{animation:wipe 0.34s steps(68,end) 0.42s forwards}
+.w8{animation:wipe 0.34s steps(68,end) 0.48s forwards}
+.w9{animation:wipe 0.34s steps(68,end) 0.54s forwards}
+.w10{animation:wipe 0.34s steps(68,end) 0.6s forwards}
+.w11{animation:wipe 0.34s steps(68,end) 0.66s forwards}
+.w12{animation:wipe 0.34s steps(68,end) 0.72s forwards}
+.w13{animation:wipe 0.34s steps(68,end) 0.78s forwards}
+.w14{animation:wipe 0.34s steps(68,end) 0.84s forwards}
+.w15{animation:wipe 0.34s steps(68,end) 0.9s forwards}
+.w16{animation:wipe 0.34s steps(68,end) 0.96s forwards}
+.w17{animation:wipe 0.34s steps(68,end) 1.02s forwards}
+.w18{animation:wipe 0.34s steps(68,end) 1.08s forwards}
+.w19{animation:wipe 0.34s steps(68,end) 1.14s forwards}
+.w20{animation:wipe 0.34s steps(68,end) 1.2s forwards}
+.w21{animation:wipe 0.34s steps(68,end) 1.26s forwards}
+.w22{animation:wipe 0.34s steps(68,end) 1.32s forwards}
+.w23{animation:wipe 0.34s steps(68,end) 1.38s forwards}
+.w24{animation:wipe 0.34s steps(68,end) 1.44s forwards}
+.w25{animation:wipe 0.34s steps(68,end) 1.5s forwards}
+.w26{animation:wipe 0.34s steps(68,end) 1.56s forwards}
+.w27{animation:wipe 0.34s steps(68,end) 1.62s forwards}
+.w28{animation:wipe 0.34s steps(68,end) 1.68s forwards}
+.w29{animation:wipe 0.34s steps(68,end) 1.74s forwards}
+.w30{animation:wipe 0.34s steps(68,end) 1.8s forwards}
+.w31{animation:wipe 0.34s steps(68,end) 1.86s forwards}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cur{animation:blink 1.05s step-end infinite}
+]]></style>
+<text class="row w0" x="20" y="33.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve"></text>
+<text class="row w1" x="20" y="47.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">             :@@=</text>
+<text class="row w2" x="20" y="61.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">            #@@@@@=</text>
+<text class="row w3" x="20" y="75.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">           #@#  .%@@+</text>
+<text class="row w4" x="20" y="89.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          :@@      %@@+</text>
+<text class="row w5" x="20" y="103.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          #@=        #@@*</text>
+<text class="row w6" x="20" y="117.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          %@:          #@@*</text>
+<text class="row w7" x="20" y="131.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          *@+            *@@#</text>
+<text class="row w8" x="20" y="145.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          .@@              *@@#</text>
+<text class="row w9" x="20" y="159.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">           =@@               *@@#</text>
+<text class="row w10" x="20" y="173.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  ::::-----:@@@+               =@@@@@@@@@@@@@#</text>
+<text class="row w11" x="20" y="187.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  @@@@@@@@@@@@@@@+             =@@*===---:::*@@@.</text>
+<text class="row w12" x="20" y="201.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">   +@@@-        #@@+          *@@             =@@@=</text>
+<text class="row w13" x="20" y="215.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">     :@@@+        #@@*       :@@                :@@@*</text>
+<text class="row w14" x="20" y="229.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  @@-   %@@#        #@@*     #@=                   #@@%.</text>
+<text class="row w15" x="20" y="243.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  :@@@*   *@@@:       *@@#   @@.                     +@@@-</text>
+<text class="row w16" x="20" y="257.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">     #@@%.  -@@@=       *@@# %@-                       :@@@+</text>
+<text class="row w17" x="20" y="271.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  @#   +@@@-  .@@@*       +@@@@@                         .%@@#</text>
+<text class="row w18" x="20" y="285.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  #@@@.  :@@@+   #@@@.      =@@@*                           +@@%:</text>
+<text class="row w19" x="20" y="299.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">    =@@@=   %@@#   =@@@=  .. :@@@@--=====+++****###%%%%@@@@@@@@@@@</text>
+<text class="row w20" x="20" y="313.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  *-  .@@@*   +@@@:  :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%###*++==</text>
+<text class="row w21" x="20" y="327.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">  @@@+   #@@%.  -@@@=</text>
+<text class="row w22" x="20" y="341.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">   .%@@#   +@@@-  .@@@*                   ...::::--===+++**#####%#</text>
+<text class="row w23" x="20" y="355.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">      *@@@:  :@@@+   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text class="row w24" x="20" y="369.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">        =@@@=   %@@%   .=++==--:::....</text>
+<text class="row w25" x="20" y="383.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">          .@@@*   +@@@:                                  ...:::--:</text>
+<text class="row w26" x="20" y="397.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">             #@@@.  -@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row w27" x="20" y="411.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">               =@@@-  .#@%%%#%##***+++++===---:::...</text>
+<text class="row w28" x="20" y="425.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">                 :@@@+</text>
+<text class="row w29" x="20" y="439.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">                    %@@%=+++++***###%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row w30" x="20" y="453.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve">                      +@@@@@@@@@@@@@@@@%%%##***+++====---::::::..</text>
+<text class="row w31" x="20" y="467.0" fill="#e6edf3" font-size="13" letter-spacing="0.18" xml:space="preserve"></text>
+<text x="20" y="502" font-size="12"><tspan fill="#39d353">pileup</tspan><tspan fill="#7d8590">@github ~ $</tspan> <tspan fill="#e6edf3">whoami</tspan><tspan class="cur" fill="#39d353"> _</tspan></text>
+</svg>

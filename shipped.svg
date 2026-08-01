@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="470" viewBox="0 0 560 470" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect width="560" height="470" rx="10" fill="#0d1117"/>
+<style><![CDATA[
+.l{opacity:0}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}
+.l0{animation:in 0.34s ease-out 0.0s forwards}
+.l1{animation:in 0.34s ease-out 0.09s forwards}
+.l2{animation:in 0.34s ease-out 0.18s forwards}
+.l3{animation:in 0.34s ease-out 0.27s forwards}
+.l4{animation:in 0.34s ease-out 0.36s forwards}
+.l5{animation:in 0.34s ease-out 0.45s forwards}
+.l6{animation:in 0.34s ease-out 0.54s forwards}
+.l7{animation:in 0.34s ease-out 0.63s forwards}
+.l8{animation:in 0.34s ease-out 0.72s forwards}
+.l9{animation:in 0.34s ease-out 0.81s forwards}
+.l10{animation:in 0.34s ease-out 0.9s forwards}
+.l11{animation:in 0.34s ease-out 0.99s forwards}
+.l12{animation:in 0.34s ease-out 1.08s forwards}
+.l13{animation:in 0.34s ease-out 1.17s forwards}
+.l14{animation:in 0.34s ease-out 1.26s forwards}
+.l15{animation:in 0.34s ease-out 1.35s forwards}
+.l16{animation:in 0.34s ease-out 1.44s forwards}
+.l17{animation:in 0.34s ease-out 1.53s forwards}
+.l18{animation:in 0.34s ease-out 1.62s forwards}
+.l19{animation:in 0.34s ease-out 1.71s forwards}
+.l20{animation:in 0.34s ease-out 1.8s forwards}
+]]></style>
+<text class="l l0" x="22" y="35" font-size="13"><tspan fill="#39d353" font-weight="bold">pileup</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#58a6ff" font-weight="bold">github</tspan></text>
+<text class="l l1" x="22" y="56" fill="#7d8590" font-size="13">----------------------------------</text>
+<text class="l l2" x="22" y="77" font-size="13"><tspan fill="#58a6ff">Studio</tspan><tspan fill="#7d8590">         </tspan><tspan fill="#e6edf3">PileUp Digital LLC, Wyoming</tspan></text>
+<text class="l l3" x="22" y="98" font-size="13"><tspan fill="#58a6ff">Does</tspan><tspan fill="#7d8590">           </tspan><tspan fill="#e6edf3">Ships small software end to end</tspan></text>
+<text class="l l5" x="22" y="129" fill="#d29922" font-size="13" font-weight="bold">Shipped</text>
+<text class="l l6" x="34" y="150" font-size="13"><tspan fill="#39d353">- </tspan><tspan fill="#e6edf3" font-weight="bold">BugMe</tspan><tspan fill="#7d8590">  iOS reminder app, live on the App Store</tspan></text>
+<text class="l l7" x="48" y="171" fill="#7d8590" font-size="12">12 tier escalation, built for ADHD brains</text>
+<text class="l l8" x="48" y="192" fill="#7d8590" font-size="12">trybugme.com</text>
+<text class="l l10" x="34" y="223" font-size="13"><tspan fill="#39d353">- </tspan><tspan fill="#e6edf3" font-weight="bold">Minecraft plugins</tspan><tspan fill="#7d8590">  6 public, Paper 1.21</tspan></text>
+<text class="l l11" x="48" y="244" fill="#7d8590" font-size="12">45,402 lines of Java</text>
+<text class="l l12" x="48" y="265" fill="#7d8590" font-size="12">economies, custom items, progression</text>
+<text class="l l14" x="22" y="296" fill="#d29922" font-size="13" font-weight="bold">Stack</text>
+<text class="l l15" x="22" y="317" font-size="13"><tspan fill="#58a6ff">Mobile</tspan><tspan fill="#7d8590">         </tspan><tspan fill="#e6edf3">Swift, SwiftUI, StoreKit</tspan></text>
+<text class="l l16" x="22" y="338" font-size="13"><tspan fill="#58a6ff">Server</tspan><tspan fill="#7d8590">         </tspan><tspan fill="#e6edf3">Java, Node, TypeScript</tspan></text>
+<text class="l l17" x="22" y="359" font-size="13"><tspan fill="#58a6ff">Data</tspan><tspan fill="#7d8590">           </tspan><tspan fill="#e6edf3">SQLite, MySQL, Postgres</tspan></text>
+<text class="l l19" x="22" y="390" font-size="13"><tspan fill="#58a6ff">Public repos</tspan><tspan fill="#7d8590">   </tspan><tspan fill="#e6edf3">10</tspan></text>
+<text class="l l20" x="22" y="411" font-size="13"><tspan fill="#58a6ff">Stars</tspan><tspan fill="#7d8590">          </tspan><tspan fill="#e6edf3">0</tspan></text>
+</svg>
