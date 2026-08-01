@@ -50,3 +50,5 @@ Work with me at [pileupdigital.com](https://pileupdigital.com).
 <br>
 <sub>The card above regenerates daily from the GitHub API. The ASCII mark is rendered from <code>assets/mark.png</code> by the scripts in <code>scripts/</code>.</sub>
 </div>
+
+<!-- profile -->
